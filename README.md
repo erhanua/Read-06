@@ -4,31 +4,27 @@
 
 In JavaScript, variables are used to store data values. Think of them as containers or storage boxes where you can keep information to be referenced and manipulated throughout your code.
 
-- **Declaration**
+### Declaration
 
 Before you use a variable, you typically need to declare it. This tells the JavaScript engine to set aside some memory for the variable.
 
 let myVariable;
 
-- **Initialization**
+### Initialization
 
 After declaring a variable, you can give it an initial value.
 
 
-myVariable = 5;
+`myVariable = 5;`
 Or you can declare and initialize in one step:
-let myVariable = 5;
+`let myVariable = 5;`
 
-- **Data Types**
+### Data Types
 Variables in JavaScript can hold different types of values:
 
-####Numbers:
-
-
-let age = 25;
+-**Numbers:**
+`let age = 25;`
 -**Strings:**
-
-
 let name = "John";
 -**Booleans:**
 let isOnline = true;
