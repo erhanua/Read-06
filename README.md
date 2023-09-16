@@ -8,7 +8,7 @@ In JavaScript, variables are used to store data values. Think of them as contain
 
 Before you use a variable, you typically need to declare it. This tells the JavaScript engine to set aside some memory for the variable.
 
-``let myVariable;
+`let myVariable;
 
 ### Initialization
 
