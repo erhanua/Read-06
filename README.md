@@ -24,12 +24,16 @@ Variables in JavaScript can hold different types of values:
 
 -**Numbers:**
 `let age = 25;`
+
 -**Strings:**
 `let name = "John";`
+
 -**Booleans:**
 `let isOnline = true;`
+
 -**Objects:**
 `let person = {firstName: "John", lastName: "Doe"};`
+
 -**Arrays:**
 `let fruits = ["apple", "banana", "cherry"];`
 
