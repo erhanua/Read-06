@@ -39,8 +39,10 @@ Variables in JavaScript can hold different types of values:
 
 ### Var, Let, and Const
 -**var:** Historically used to declare variables. It's function-scoped.
+
 -**let:** Introduced in ES6 (ES2015). It's block-scoped and is now the recommended way to declare variables that will change over time.
 const: Also introduced in ES6. It's block-scoped and is used to declare variables whose values should not be reassigned.
+
 -**Dynamic Typing**
 JavaScript is a dynamically typed language. This means you don't have to specify the data type of a variable when you declare it. The type can change during the execution of the program.
 `let data = 5;       // data is a number`
@@ -48,6 +50,7 @@ JavaScript is a dynamically typed language. This means you don't have to specify
 
 ## 2. What does it mean to declare a variable?
 Declaring a variable is like telling the computer, "I'm going to use a name to refer to some data, but I'm not telling you what the data is yet." It's like setting aside an empty box to put something in later.
+
 `let myVariable;       // Declaration`
 `console.log(myVariable); // Outputs: undefined`
 
