@@ -11,24 +11,24 @@ Before you use a variable, you typically need to declare it. This tells the Java
 ```javascript
 let myVariable;
 
-Initialization
+### Initialization
+
 After declaring a variable, you can give it an initial value.
 
 
-myVariable = 5;
+```myVariable = 5;
 Or you can declare and initialize in one step:
+```let myVariable = 5;
 
-
-let myVariable = 5;
-Data Types
+### Data Types
 Variables in JavaScript can hold different types of values:
 
-Numbers:
-javascript
+####Numbers:
 
-let age = 25;
+
+```let age = 25;
 Strings:
-javascript
+
 
 let name = "John";
 Booleans:
